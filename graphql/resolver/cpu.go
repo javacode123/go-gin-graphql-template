@@ -6,8 +6,8 @@ import (
 
 	linuxproc "github.com/c9s/goprocinfo/linux"
 	graphql "github.com/graph-gophers/graphql-go"
-	"github.com/hsukvn/go-gin-graphql-template/graphql/model"
-	"github.com/hsukvn/go-gin-graphql-template/graphql/scalar"
+	"github.com/javacode_123/go-gin-graphql-template/graphql/model"
+	"github.com/javacode_123/go-gin-graphql-template/graphql/scalar"
 )
 
 const procStatPath = "/proc/stat"

@@ -5,10 +5,9 @@ import (
 	"log"
 	"time"
 
-	"github.com/appleboy/gin-jwt"
 	"github.com/gin-gonic/gin"
-	"github.com/hsukvn/go-gin-graphql-template/controller"
-	"github.com/hsukvn/go-gin-graphql-template/lib/user"
+	"github.com/java_code123/go-gin-graphql-template/controller"
+	"github.com/java_code123/go-gin-graphql-template/lib/user"
 )
 
 const identityKey = "name"

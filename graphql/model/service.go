@@ -1,7 +1,7 @@
 package model
 
 import (
-	"github.com/hsukvn/go-gin-graphql-template/lib/unit"
+	"github.com/javacode_123/go-gin-graphql-template/lib/unit"
 )
 
 type Service struct {

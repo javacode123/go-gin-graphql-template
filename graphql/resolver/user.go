@@ -5,8 +5,8 @@ import (
 	"fmt"
 
 	graphql "github.com/graph-gophers/graphql-go"
-	"github.com/hsukvn/go-gin-graphql-template/graphql/model"
-	"github.com/hsukvn/go-gin-graphql-template/lib/user"
+	"github.com/javacode_123/go-gin-graphql-template/graphql/model"
+	"github.com/javacode_123/go-gin-graphql-template/lib/user"
 )
 
 type userArgs struct {

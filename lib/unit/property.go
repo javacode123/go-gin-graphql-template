@@ -5,7 +5,7 @@ import (
 	"os/exec"
 	"strings"
 
-	"github.com/hsukvn/go-gin-graphql-template/lib/util"
+	"github.com/javacode_123/go-gin-graphql-template/lib/util"
 )
 
 type Property map[string]string

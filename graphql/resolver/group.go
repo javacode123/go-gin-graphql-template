@@ -2,7 +2,7 @@ package resolver
 
 import (
 	graphql "github.com/graph-gophers/graphql-go"
-	"github.com/hsukvn/go-gin-graphql-template/graphql/model"
+	"github.com/javacode_123/go-gin-graphql-template/graphql/model"
 )
 
 type groupResolver struct {

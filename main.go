@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	"github.com/hsukvn/go-gin-graphql-template/cmd"
+	"github.com/java_code123/go-gin-graphql-template/cmd"
 )
 
 func main() {

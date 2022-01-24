@@ -5,8 +5,8 @@ import (
 	"fmt"
 
 	linuxproc "github.com/c9s/goprocinfo/linux"
-	"github.com/hsukvn/go-gin-graphql-template/graphql/model"
-	"github.com/hsukvn/go-gin-graphql-template/graphql/scalar"
+	"github.com/javacode_123/go-gin-graphql-template/graphql/model"
+	"github.com/javacode_123/go-gin-graphql-template/graphql/scalar"
 )
 
 const procMeminfoPath = "/proc/meminfo"

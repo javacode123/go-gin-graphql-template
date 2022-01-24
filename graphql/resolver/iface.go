@@ -4,9 +4,9 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/hsukvn/go-gin-graphql-template/graphql/model"
-	"github.com/hsukvn/go-gin-graphql-template/graphql/scalar"
-	"github.com/hsukvn/go-gin-graphql-template/lib/network"
+	"github.com/javacode_123/go-gin-graphql-template/graphql/model"
+	"github.com/javacode_123/go-gin-graphql-template/graphql/scalar"
+	"github.com/javacode_123/go-gin-graphql-template/lib/network"
 )
 
 const procNetDevPath = "/proc/net/dev"

@@ -1,7 +1,7 @@
 package cmd
 
 import (
-	"github.com/hsukvn/go-gin-graphql-template/server"
+	"github.com/java_code123/go-gin-graphql-template/server"
 	"github.com/spf13/cobra"
 )
 

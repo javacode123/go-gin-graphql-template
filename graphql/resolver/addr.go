@@ -1,7 +1,7 @@
 package resolver
 
 import (
-	"github.com/hsukvn/go-gin-graphql-template/graphql/model"
+	"github.com/javacode_123/go-gin-graphql-template/graphql/model"
 )
 
 type addrResolver struct {
